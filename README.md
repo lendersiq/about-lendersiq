@@ -1,4 +1,4 @@
-# about-lendersiq
-Read me about LendersIQ
-*Dedicated to Community FI prosperity
-*Leverage data driven best practices
+#About lendersiq
+##leader in FI data
+* Dedicated to Community FI prosperity
+* Leverage data driven best practices
